@@ -1,0 +1,8 @@
+[package]
+name = "envsub"
+version = "0.1.0"
+authors = ["yvasquez <yuri.vasquez@tvglobo.com.br>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.1.6"
